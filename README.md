@@ -1,6 +1,5 @@
-
 ### MAJOR
-Statistics  
+Statistics  💖  
 Data Science Software 
   
 ### PROJECT  
@@ -13,7 +12,7 @@ HouseBidding project (Dongil)
 2021 Data Youth Campus   
    
 ### Using  
-R, Python, SPSS, SAS 
+R, Python, SPSS, SAS   
 MySQL, MariaDB  
   
 ### Study Now  
