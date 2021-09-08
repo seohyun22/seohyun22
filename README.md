@@ -9,7 +9,8 @@ Multivariate Analysis
 HouseBidding project (Dongil)  
   
 ### EDUCATION   
-2021 Data Youth Campus   
+2021 Data Youth Campus  
+bigdata society B.A.F
    
 ### Using  
 R, Python, SPSS, SAS   
