@@ -18,6 +18,5 @@ MySQL, MariaDB
   
 ### Study Now  
 Java  
-ML
 
 
