@@ -6,7 +6,8 @@ Data Science Software
 Exploratory Data Analysis  
 Data Mining  
 Multivariate Analysis   
-HouseBidding project (Dongil)  
+HouseBidding project (Dongil)
+DataScience Capstone
   
 ### EDUCATION   
 2021 Data Youth Campus  
@@ -14,9 +15,7 @@ bigdata society B.A.F
    
 ### Using  
 R, Python, SPSS, SAS   
-MySQL, MariaDB  
+MySQL, MariaDB, Java
   
-### Study Now  
-Java  
 
 
