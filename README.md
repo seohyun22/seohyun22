@@ -13,11 +13,11 @@ Internship - 'New Product ongoing Decision Support'
 bigdata society B.A.F
 
 ### Experience
-- Internship at data consulting department
-- HR Analytics and RPA at HR department
+Internship at data consulting department
+HR Analytics and RPA at HR department
 
 ### Prize
-- 2022 NH Big Data Competition 3rd place
+2022 NH Big Data Competition 3rd place
    
 ### Using  
 R, Python, SPSS, SAS   
