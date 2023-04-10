@@ -2,13 +2,13 @@
 Statistics  💖  
 Data Science Software 
   
-### PROJECT  
+### PROJECT
 HouseBidding project (Dongil)   
 DataScience Capstone - 'Messenger Phishing Detection Application'   
 Internship - 'Develop of Pedestrian Safety Index and Map Visualization'   
 Internship - 'New Product ongoing Decision Support'   
   
-### Education   
+### Education
 2021 Data Campus  
 bigdata society B.A.F
 
@@ -19,7 +19,7 @@ HR Analytics and RPA at HR department
 ### Prize
 2022 NH Big Data Competition 3rd place
    
-### Using  
+### Using 
 R, Python, SPSS, SAS   
 MySQL, MariaDB, Java, QGIS
   
